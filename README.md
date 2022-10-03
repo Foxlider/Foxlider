@@ -81,7 +81,7 @@ I'm `Keelah` but I used to be called `Foxlider`
 ## Stats
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxlider&theme=github-dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxlider&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxlider&theme=github" />
