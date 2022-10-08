@@ -83,10 +83,11 @@ I'm `Keelah` but I used to be called `Foxlider`
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=foxlider&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=foxlider&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=foxlider&theme=github" />
+  <a href="https://github.com/foxlider">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foxlider&show_icons=true&theme=transparent&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxlider&theme=transparent&layout=compact" 
+      alt="JasonTaylorDev GitHub Top Languages" />
   </a>
 </div>
+
+
