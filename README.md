@@ -85,7 +85,7 @@ I'm `Keelah` but I used to be called `Foxlider`
   </a>
   <a href="https://github.com/foxlider">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foxlider&show_icons=true&theme=transparent&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxlider&theme=transparent&layout=compact" 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxlider&theme=transparent&layout=compact&hide=html" 
       alt="JasonTaylorDev GitHub Top Languages" />
   </a>
 </div>
